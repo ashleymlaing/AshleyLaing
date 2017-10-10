@@ -1,0 +1,10 @@
+section{
+  width: 50%;
+  height: 600px;
+  float: left;
+}
+header.resume + section {
+  background-image: url("../img/ashley.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
